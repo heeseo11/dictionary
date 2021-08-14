@@ -1,15 +1,3 @@
-### 이것저것 이것저것
-
-- 데이터 재구조화
-  - pivot()
-  - pd.pivot_table()
-  - stack()
-  - unstack()
-  - melt()
-  - wide_to_long()
-  - pd.crosstab()
-
-
 #### [colab 참고]
 
 - colab 연결 끊김 방지
